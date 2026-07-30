@@ -1,0 +1,7 @@
+#BlueJ class context
+#Thu Jul 30 15:38:06 CST 2026
+comment0.target=Vehiculo
+comment0.text=\r\n Write a description of interface Vehiculo here.\r\n \r\n @author (perla) \r\n @version (30/07/26)\r\n
+comment1.target=void arrancar()
+comment2.target=void detener()
+numComments=3
